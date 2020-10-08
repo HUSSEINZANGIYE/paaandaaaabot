@@ -1,0 +1,4 @@
+<?php
+$TOKEN='1019524315:AAEFUMokBzLix6_o-hnRl6RTTyibhLpjnU4';
+$ID= 902999354;
+?>
